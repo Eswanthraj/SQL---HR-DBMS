@@ -1,7 +1,7 @@
 # SQL---HR-DBMS
 The HR Database System is a structured SQL project designed to manage and analyze Human Resources data. It includes a relational database schema for managing employee information, departments, and payroll.
 
-# Features of the HR Database System
+# Features of the HR Database System.
 Employee Management: Stores detailed information about employees, including their personal details, job roles, and department affiliations.
 Payroll Management: Provides functionality for managing employee salaries, bonuses, and payroll details.
 Department Allocation: Tracks the assignment of employees to departments and their roles within the organization.
